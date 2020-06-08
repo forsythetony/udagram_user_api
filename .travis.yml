@@ -15,7 +15,7 @@ before_script:
 
   
 script:
-  - npm install typescript -g
+  - npm i
   - npm run build
   - docker --version # print the version for logging
   - docker build -t udagram_user_api .
