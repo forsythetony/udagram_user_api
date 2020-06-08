@@ -1,3 +1,7 @@
+# Personal Entries
+load_env_vars.sh
+www/
+
 # Logs
 logs
 *.log
