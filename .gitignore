@@ -1,6 +1,7 @@
 # Personal Entries
 load_env_vars.sh
 www/
+run_docker_image.sh
 
 # Logs
 logs
